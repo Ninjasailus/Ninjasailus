@@ -1,0 +1,11 @@
+git+https://github.com/Rapptz/discord.py.git@rewrite#egg=discord.py
+jellyfish
+aiohttp
+websockets
+chardet
+Pillow
+tabulate
+google-api-python-client
+oauth2client
+pymongo
+dnspython
